@@ -58,7 +58,20 @@ mark {
 	background-color: transparent;
 	color: inherit;
 }
-
+.role {
+  display: inline-block;
+  margin-top: 0.2rem;
+    margin-right: 10px;
+  font-size: 0.8rem;
+  color: #888;
+  background: #eaeaea;
+  padding: 0.2rem 0.5rem;
+  border-radius: 5px;
+}
+.role {
+  font-size: 0.9rem;
+  color: #666;
+}
 input::-moz-focus-inner {
 	border: 0;
 	padding: 0;
